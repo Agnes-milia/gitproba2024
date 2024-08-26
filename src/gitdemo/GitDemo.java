@@ -9,4 +9,8 @@ public class GitDemo {
         System.out.println("vvv");
     }
     
+    void nemkell(){
+        
+    }
+    
 }
