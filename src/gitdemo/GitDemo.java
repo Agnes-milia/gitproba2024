@@ -10,7 +10,9 @@ public class GitDemo {
     }
     
     void nemkell(){
-        
+
+        System.out.println("hh");
+
     }
     
 }
